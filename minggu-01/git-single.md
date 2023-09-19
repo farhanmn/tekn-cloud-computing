@@ -2,7 +2,7 @@
 
 Menampilkan dan melakukan pengecekan versi pada GIT yang telah diinstall
 
-![git_version](gambar-01.PNG)
+![git_version](gambar-01.png)
 
 # 2. Konfigurasi GIT
 
@@ -15,7 +15,7 @@ $ git config --global user.email "najibfarhan3@gmail.com"
 
 Melihat dan menampilkan hasil
 
-![git_config](gambar-02.PNG)
+![git_config](gambar-02.png)
 
 # 3. Mengelola Repo Sendiri
 
@@ -25,11 +25,11 @@ Melakukan pembuatan repo melalui Github
 
 Hasil pembuatan repo:
 
-![repo](gambar-03-repo.PNG)
+![repo](gambar-03-repo.png)
 
 ## Clone Repo ke komputer lokal
 
-![cloning_repo](gambar-03-cloning.PNG)
+![cloning_repo](gambar-03-cloning.png)
 
 ## Mengelola Repo
 
