@@ -2,6 +2,4 @@
 
 ## Latihan 6
 
-latihan:
-
 ## Tugas
