@@ -2,7 +2,7 @@
 
 ## Deskripsi
 
-Repositori ini merupakan kumpulan dari tugas pekanan Mata Kuliah Praktikum Teknologi Cloud yang diampu oleh
+Repositori ini merupakan kumpulan tugas pekanan Mata Kuliah Praktikum Teknologi Cloud Computing
 
 ## Dosen
 
