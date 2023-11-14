@@ -8,6 +8,11 @@ Repositori ini merupakan kumpulan dari tugas pekanan Mata Kuliah Praktikum Tekno
 
 Dr. Bambang Purnomosidi D. P.
 
+## Mahasiswa
+
+Nama : Muhammad Farhan Najib
+NIM : 23.541.1092
+
 ## Cara Membaca Repositori:
 
 - Repositori ini dibagi berdasarkan tugas per-minggu
