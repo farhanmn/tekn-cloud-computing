@@ -10,8 +10,7 @@ Dr. Bambang Purnomosidi D. P.
 
 ## Mahasiswa
 
-Nama : Muhammad Farhan Najib
-NIM : 23.541.1092
+Muhammad Farhan Najib - 23.541.1092
 
 ## Cara Membaca Repositori:
 
