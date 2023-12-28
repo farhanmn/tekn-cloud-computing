@@ -1,5 +1,11 @@
-# Link File MD
+# Tugas 6
 
-## Latihan 6
+### Latihan
 
-## Tugas
+- [Latihan 1](https://github.com/farhanmn/tekn-cloud-computing/blob/master/minggu-06/latihan-01)
+
+- [Latihan 2](https://github.com/farhanmn/tekn-cloud-computing/blob/master/minggu-06/latihan-02)
+
+### Tugas
+
+- [Tugas](https://github.com/farhanmn/tekn-cloud-computing/blob/master/minggu-06/tugas)

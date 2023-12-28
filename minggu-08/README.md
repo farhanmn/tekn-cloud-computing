@@ -1,9 +1,9 @@
-# Link Latihan dan Tugas 8
+# Tugas 8
 
-1. Latihan 8: Menggunakan Docker Compose
+### Latihan
 
-   Link: [latihan-08](https://github.com/farhanmn/tekn-cloud-computing/tree/master/minggu-08/latihan)
+- [Latihan 8: Menggunakan Docker Compose](https://github.com/farhanmn/tekn-cloud-computing/tree/master/minggu-08/latihan)
 
-2. Tugas 8: Arsitektur Docker
+### Tugas
 
-   Link: [tugas-08](https://github.com/farhanmn/tekn-cloud-computing/tree/master/minggu-08/tugas)
+- [Tugas 8: Arsitektur Docker](https://github.com/farhanmn/tekn-cloud-computing/tree/master/minggu-08/tugas)
