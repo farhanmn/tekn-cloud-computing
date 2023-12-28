@@ -73,7 +73,7 @@ services:
 ```
 
 6. Build dengan `docker compose up`
-   ![build](../assets/build.png)
+   ![build](../1-build.png)
 
 7. Akses `http://localhost:8000`
-   ![browser](../assets/browser.png)
+   ![browser](../2-browser.png)

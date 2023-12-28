@@ -11,7 +11,7 @@ Menggambarkan Diagram Hubungan Antara:
 
 ### Diagram Arsitektur Docker
 
-![docker](../assets/docker.png)
+![docker](../3-docker.png)
 
 ### Penjelasan
 

@@ -3,43 +3,43 @@
 ### Section 1 - Networking Basics
 
 1. Docker network command.
-   ![network](assets/network.png)
+   ![network](1-network.png)
 2. List network.
-   ![lists](assets/network_lists.png)
+   ![lists](2-network_lists.png)
 3. Inspect network.
-   ![inspect](assets/inspect.png)
+   ![inspect](3-inspect.png)
 4. Docker info.
-   ![info](assets/info.png)
+   ![info](4-info.png)
 
 ### Section 2 - Bridge Nwtworking
 
 1. The Basics.
-   ![update](assets/update.png)
-   ![brctl](assets/brctl.png)
-   ![ipa](assets/ipa.png)
+   ![update](5-update.png)
+   ![brctl](6-brctl.png)
+   ![ipa](7-ipa.png)
 2. Connect a container.
-   ![run](assets/run.png)
+   ![run](8-run.png)
 3. Test network connectivity.
-   ![ping](assets/ping.png)
+   ![ping](9-ping.png)
 4. Configure NAT for external connectivity.
-   ![run2](assets/run2.png)
-   ![curl](assets/curl.png)
+   ![run2](10-run2.png)
+   ![curl](11-curl.png)
 
 ### Section 3 - Overlay Networking
 
 1. The Basics.
-   ![swarm](assets/swarm.png)
+   ![swarm](12-swarm.png)
 2. Create an overlay network.
-   ![overlay](assets/overlay.png)
-   ![overnet](assets/overnet.png)
+   ![overlay](13-overlay.png)
+   ![overnet](14-overnet.png)
 3. Create a service.
-   ![service](assets/service.png)
-   ![service2](assets/service2.png)
+   ![service](15-service.png)
+   ![service2](16-service2.png)
 4. Test the network.
-   ![test](assets/test.png)
+   ![test](17-test.png)
 5. Test service discovery.
-   ![discovery](assets/discovery.png)
+   ![discovery](18-discovery.png)
 
 ### Cleaning Up
 
-![cleanup](assets/cleanup.png)
+![cleanup](19-cleanup.png)
