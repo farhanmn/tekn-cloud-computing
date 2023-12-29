@@ -1,6 +1,6 @@
 # Panduan Belanja Ofbiz E-Commerce
 
-### Registrasi Akun
+## Registrasi Akun
 
 1. Pilih menu register pada halaman awal
 
@@ -14,7 +14,7 @@
 
 ![success](9-success-register.png)
 
-### Login
+## Login
 
 1. Masuk melalui halaman login
 
@@ -24,7 +24,7 @@
 
 ![success](9-success-register.png)
 
-### Menambahkan Produk ke Keranjang
+## Menambahkan Produk ke Keranjang
 
 1. Setelah memilih salah satu kategori yang ada disamping kiri halaman, kemudian pilih produk yang akan ditambahkan ke keranjang dengan klik tombol `Add to Cart`
 
@@ -34,7 +34,7 @@
 
 ![cart-2](12-cart.png)
 
-### Checkout
+## Checkout
 
 1. Pilih view cart yang ada dibagian atas beranda
 
