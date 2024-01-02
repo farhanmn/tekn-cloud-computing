@@ -2,8 +2,8 @@
 
 ### Latihan
 
-- Deploy to Cyclic - [deploy-to-cyclic](https://github.com/farhanmn/tekn-cloud-computing/blob/master/minggu-03/deploy-to-cyclic.md)
+- Deploy to Cyclic - [deploy-to-cyclic.md](https://github.com/farhanmn/tekn-cloud-computing/blob/master/minggu-03/deploy-to-cyclic.md)
 
 ### Tugas
 
-- Deploy DIY - [deploy-diy](https://github.com/farhanmn/tekn-cloud-computing/blob/master/minggu-03/deploy-diy.md)
+- Deploy DIY - [deploy-diy.md](https://github.com/farhanmn/tekn-cloud-computing/blob/master/minggu-03/deploy-diy.md)
